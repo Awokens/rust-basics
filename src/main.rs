@@ -28,7 +28,7 @@ fn main() -> anyhow::Result<()>{
 
     info!("{:?}", "value".as_ptr() == variable.as_ptr());
 
-    //
+
     // assert_eq!("value".as_ptr(), variable.as_ptr());
 
     Ok(())

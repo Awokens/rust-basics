@@ -4,7 +4,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e5c79d2-f3b9-46b2-95c0-a3ee694e1cd8" name="Changes" comment="" />
+    <list default="true" id="5e5c79d2-f3b9-46b2-95c0-a3ee694e1cd8" name="Changes" comment="first try. (learning rust be like)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
