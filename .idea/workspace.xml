@@ -4,7 +4,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e5c79d2-f3b9-46b2-95c0-a3ee694e1cd8" name="Changes" comment="first try. (learning rust be like)" />
+    <list default="true" id="5e5c79d2-f3b9-46b2-95c0-a3ee694e1cd8" name="Changes" comment="learning rust" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +62,36 @@
       <option name="presentableId" value="Default" />
       <updated>1651953103544</updated>
     </task>
+    <task id="LOCAL-00001" summary="learning rust">
+      <created>1651956103651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651956103651</updated>
+    </task>
+    <task id="LOCAL-00002" summary="learning rust">
+      <created>1651956359245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651956359245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learning rust" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning rust" />
   </component>
 </project>
